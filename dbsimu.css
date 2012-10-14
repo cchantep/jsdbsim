@@ -1,0 +1,53 @@
+div.dataTableIndex {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+table.dataTableSpace {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+  border-collapse: collapse;
+  margin-top: 175px;
+}
+
+table.dataTableSpace td {
+  border: none;
+  margin: 0px;
+  padding: 0px;
+  padding-right: 20px;
+}
+
+table.dataTable tr,
+table.dataTable td,
+table.dataTable th,
+table.dataTable {
+  border-collapse: collapse;
+  border: 1px black solid;
+}
+
+table.dataTable th {
+  background: #ababab;
+}
+
+table.dataTable tr.dataTableEditor {
+  background: gold;
+}
+
+table.dataTable td.isNull,
+table.dataTable th.extraCell {
+  background: #efefef;
+}
+
+span.schemaName:before {
+  content: " (";
+}
+
+span.schemaName:after {
+  content: ")";
+}
+
+table.dataTable tr:hover {
+  background: gold;
+}
