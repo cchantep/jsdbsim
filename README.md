@@ -1,4 +1,0 @@
-jsdbsim
-=======
-
-JavaScript database simulator.
