@@ -1,4 +1,3 @@
-jsdbsim
-=======
+# JavaScript database simulator
 
-JavaScript database simulator.
+See [demo](http://cchantep.github.com/jsdbsimu).
